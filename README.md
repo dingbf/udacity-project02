@@ -23,3 +23,4 @@
   
   3.用户可通过观察页面Jasmine提示信息，来确认是否所有的spec成功执行。
   
+   ![image](https://github.com/dingbf/udacity-project02/blob/master/jasmine-info.png)
